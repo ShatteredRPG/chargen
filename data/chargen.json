@@ -1,0 +1,124 @@
+{
+    "genders":[
+        "a feminine looking ",
+        "a masculine looking ",
+        "an adrogynous looking "
+    ],
+    "races":[
+        "Alypse",
+        "Drone",
+        "Florvana",
+        "Human",
+        "Rekindled",
+        "Shade",
+        "Vampire",
+        "Wretched"
+    ],
+    "weapons":[
+        "dual daggers",
+        "nothing but a broken table leg",
+        "a broadsword",
+        "a crossbow",
+        "a ceremonial short sword",
+        "a nest of bees",
+        "a trigun",
+        "two revolvers",
+        "a musty arkänic tome",
+        "a hefty rapier"
+    ],
+    "pants":
+    [
+        "fancy pantaloons",
+        "loincloth",
+        "leather pants",
+        "sleek black pants",
+        "ritzy noble pants",
+        "no pants"
+    ],
+    "shirts":[
+        "a white blouse",
+        "leather vest",
+        "splint mail",
+        "chain mail",
+        "no shirt"
+    ],
+    "shoes":[
+        "fuzzy slippers",
+        "moccasins",
+        "nothing but their bare feet",
+        "vine sandals",
+        "normal looking boots",
+        "no shoes",
+        "six inch stilettos",
+        "riding boots"
+    ],
+    "hair":[
+        "gray, shaggy mop of hair",
+        "jet black buzz cut",
+        "blonde, wirey hair",
+        "bald head"
+    ],
+    "face":[
+        "sharp facial features and high cheekbones are",
+        "roundish cherub face is",
+        "forgettable face is"
+    ],
+    "scar":[
+        "a red slashing scar down the right side of their face",
+        "a missing left arm",
+        "heterochromia",
+        "six fingers on their left hand",
+        "an intricate back tattoo",
+        "a missing left eye",
+        "a missing right ear"
+    ],
+    "personality":[
+        "the personality of a wet noodle",
+        "an upbeat, peppy outlook on life",
+        "the personality of a honey badger",
+        "a syrupy sweet personality",
+        "something to say in retort, and are rude to those they meet"
+    ],
+    "family":[
+        "Their family died ten years ago in a freak fuel fight accident",
+        "Their family owns a small shop in Pulse",
+        "Their family drowned in the One Path lakes after sliding off an airship door in the aftermath of an Airship collision with a sleeping Skywhale",
+        "Their family died from boredom during a decade long poetry battle",
+        "Their mother killed their father via 'snu-snu'",
+        "They were raised as a slave in the Alecian Plains",
+        "Their parents were eaten by the grue",
+        "They were raised by loving parents in the underground city of Sylvan Hollow",
+        "Their older brother joined the Pulse military and ascended to the rank of Captain",
+        "Their family are well off Laniscian nobles who have disowned them due to their unusual hobbies",
+        "They were born and raised in a brothel",
+        "Their father is a well known and respected, yet feared, chef in Lokoran. He is known for calling people 'idiot sandwhiches' when they make grave mistakes in his kitchen",
+        "Their youngest sister has taken up a career of vampire hunting"
+    ],
+    "combatPref":[
+        "their bare hands",
+        "arkäna",
+        "psionics",
+        "ranged weapons",
+        "melee weapons"
+    ],
+    "goal": [
+        "is finding a shrubbery",
+        "is mastering psionics",
+        "is finding the drone that killed their best friend",
+        "is becoming a Gravekeeper",
+        "is ressurecting as a Rekindled",
+        "becoming a dread pirate",
+        "is finding their soulmate"
+    ],
+    "flaw":[
+        "is that they don't know when to quit drinking",
+        "is a broken internal monologue",
+        "is the lack of a verbal filter",
+        "is ending every sentence with 'that's what she said'",
+        "is enjoying the prolific use of puns",
+        "is daddy issues",
+        "is mommy issues",
+        "is middle child syndrome",
+        "is an oedipus complex"
+    ]
+}

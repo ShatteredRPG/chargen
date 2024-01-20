@@ -1,0 +1,111 @@
+.chargen {
+    color: #ddd;
+    font-size: 150%;
+}
+
+.intro, .genders, .races, .weapons, .pants, .shirts, .shoes, .hair, .face,
+.scar, .personality, .family, .combatPref, .goal, .flaw, .shareLabel, .share {
+    font-weight: bold;
+}
+
+.intro {
+    font-size: 175%;
+    margin: 5% 0 0 20%;
+}
+
+.desc {
+    text-align: center;
+}
+
+.reroll {
+    font-weight: bolder;
+    font-size: 200%;
+}
+
+.reroll, .shareBtn {
+    text-align: center;
+    color: gold;
+    cursor: pointer;
+}
+
+.shareLabel {
+    text-align: center;
+    font-size: 150%;
+}
+
+.share {
+    text-align: center;
+}
+
+.shareLink {
+	border: 0;
+	outline: 0;
+	background: transparent;
+	border-bottom: 1px solid #ddd;
+    text-align: center;
+	font-size: 50%;
+	width: 60%;
+	color:#fff;
+}
+
+.shareBtn {
+}
+
+
+
+
+.genders {
+    color: darkgray;
+}
+
+.races {
+    color: #039be5;
+}
+
+.weapons {
+   color: steelblue; 
+}
+
+.pants {
+    color: brown;
+}
+
+.shirts {
+    color: lightblue;
+}
+
+.shoes {
+    color: tan;
+}
+
+.hair {
+    color: #dcedc8;
+}
+
+.face {
+    color: peachpuff;
+}
+
+.scar {
+    color: #f48fb1;
+}
+
+.personality {
+    color: #d0d0d0
+}
+
+.family {
+    color: #00695c;
+}
+
+.combatPref {
+    color: #536dfe;
+}
+
+.goal {
+    color: #6200ea;
+}
+
+.flaw {
+    color: red;
+}
